@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/musicLyrics/static/css/main.2525058a.css",
+    "main.js": "/musicLyrics/static/js/main.39200664.js",
+    "static/js/787.5ef3d4cc.chunk.js": "/musicLyrics/static/js/787.5ef3d4cc.chunk.js",
+    "static/media/loader.svg": "/musicLyrics/static/media/loader.b6e62932d9a09a37205ac7eecdf828d6.svg",
+    "static/media/logo.svg": "/musicLyrics/static/media/logo.1361672ed371955f4c4262298b26e51b.svg",
+    "index.html": "/musicLyrics/index.html",
+    "main.2525058a.css.map": "/musicLyrics/static/css/main.2525058a.css.map",
+    "main.39200664.js.map": "/musicLyrics/static/js/main.39200664.js.map",
+    "787.5ef3d4cc.chunk.js.map": "/musicLyrics/static/js/787.5ef3d4cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2525058a.css",
+    "static/js/main.39200664.js"
+  ]
+}
